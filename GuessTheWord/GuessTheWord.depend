@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1391204853 source:e:\koodaus\c++\guesstheword\guesstheword\main.cpp
+	<iostream>
+	"classes/class-game.cpp"
+
+1391206397 e:\koodaus\c++\guesstheword\guesstheword\classes\class-game.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"class-questions.cpp"
+	"class-answers.cpp"
+	"class-filez.cpp"
+	"class-player.cpp"
+
+1391206397 source:e:\koodaus\c++\guesstheword\guesstheword\classes\class-game.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"class-questions.cpp"
+	"class-answers.cpp"
+	"class-filez.cpp"
+	"class-player.cpp"
+
+1391206006 source:e:\koodaus\c++\guesstheword\guesstheword\classes\class-answers.cpp
+	<iostream>
+	<fstream>
+
+1391206316 source:e:\koodaus\c++\guesstheword\guesstheword\classes\class-filez.cpp
+	<fstream>
+
+1391206205 e:\koodaus\c++\guesstheword\guesstheword\classes\class-questions.cpp
+	<fstream>
+	<iostream>
+
+1391206006 e:\koodaus\c++\guesstheword\guesstheword\classes\class-answers.cpp
+	<iostream>
+	<fstream>
+
+1391206412 e:\koodaus\c++\guesstheword\guesstheword\classes\class-filez.cpp
+	<fstream>
+
+1391206205 source:e:\koodaus\c++\guesstheword\guesstheword\classes\class-questions.cpp
+	<fstream>
+	<iostream>
+
+1391197765 source:e:\koodaus\c++\guesstheword\guesstheword\classes\class-player.cpp
+	<iostream>
+
+1391197765 e:\koodaus\c++\guesstheword\guesstheword\classes\class-player.cpp
+	<iostream>
+
